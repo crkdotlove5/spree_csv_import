@@ -1,0 +1,18 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  import_products: 'Import products'
+  csv_import:
+    generate_template: 'Generate template file'
+    generate_button: 'Generate'
+    import_products: 'Import products'
+    import_button: 'Import'
+    import_error: 'Each row in CSV file have to have name, price and scu fields'
+    import_success: '%{count} item(s) imported'
+  name: NAME
+  price: PRICE
+  sku: SKU
+  description: DESCRIPTION
+  available_on: AVAILABLE_ON
+  on_hand: ON_HAND
